@@ -14,4 +14,8 @@ could result in your users' browsers trusting things you don't want them to.
 
 ## Roots you want to trust
 
+These should be copied into the 'data' directory, and the filenames listed in trust.txt (also within the 'data' directory).
+
 ## Roots you no longer trust
+
+These should be copied into the 'data' directory, with the filenames added to distrust.txt
