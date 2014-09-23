@@ -19,3 +19,12 @@ These should be copied into the 'data' directory, and the filenames listed in tr
 ## Roots you no longer trust
 
 These should be copied into the 'data' directory, with the filenames added to distrust.txt
+
+## Building your addon
+
+This addon uses the [addon SDK] (https://developer.mozilla.org/en-US/Add-ons/SDK) - if you have this installed, set up your environment and do something like this
+
+``` bash
+cfx xpi
+```
+to create an addon package.
