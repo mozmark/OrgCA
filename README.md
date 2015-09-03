@@ -1,4 +1,4 @@
-# OrgCA - A Firefox addon to help organizations manage their own CA
+# OrgCA - A Firefox addon to help organizations manage local roots
 
 # Instructions
 
