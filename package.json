@@ -1,9 +1,10 @@
 {
   "name": "orgca",
   "title": "OrgCA",
-  "id": "jid1-HJiNsuUcL1IAHA",
+  "id": "{ca49ff1a-4f63-11e6-8587-4976d310c1a8}",
   "description": "a basic add-on",
   "author": "",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.1.1",
+  "main": "lib/main.js"
 }
